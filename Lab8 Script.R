@@ -6,3 +6,5 @@ growingDegreesTimesTen <- function(x){
   a[c] <- 300L #Changed
   return(a)
 }
+
+#This code looks great! RJ
